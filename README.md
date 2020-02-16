@@ -2,4 +2,5 @@
 Demonstration of continuous integration for software design class
 
 <br>
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/git/rylanperumal/continuous_integration_demo.svg?style=svg&circle-token=<44df2caed579c157204a02beaf3f1f81f5d154e7>)](<LINK>)
+
