@@ -1,0 +1,26 @@
+{
+  "name": "continuous_integration_demo",
+  "version": "1.0.0",
+  "description": "demo for software design lecture on continuous integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rylanperumal/continuous_integration_demo.git"
+  },
+  "keywords": [
+    "circle",
+    "ci"
+  ],
+  "author": "Rylan Perumal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rylanperumal/continuous_integration_demo/issues"
+  },
+  "homepage": "https://github.com/rylanperumal/continuous_integration_demo#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
