@@ -4,7 +4,9 @@
   "description": "demo for software design lecture on continuous integration",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,7 @@
   },
   "homepage": "https://github.com/rylanperumal/continuous_integration_demo#readme",
   "devDependencies": {
+    "coveralls": "^3.0.9",
     "jest": "^25.1.0"
   }
 }
